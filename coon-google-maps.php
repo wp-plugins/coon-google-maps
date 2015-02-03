@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Coon Maps
+Plugin Name: Coon Google Maps
 Author: Andrico
 Author URI: https://profiles.wordpress.org/andrico/
 Description: You can insert google maps in your site. It's very easy to use, and you can show routes, markers.

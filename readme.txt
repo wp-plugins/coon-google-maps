@@ -24,22 +24,23 @@ coonprogramer.com
 == Frequently Asked Questions ==
 
 = How to use the plugin? =
+
 You have to put in your editor (in pages, posts, or custom post types):
 `[map centerlat='' centerlng='' width='' height=''][/map]`
 `[map address='' width='' height=''][/map]`
 `[map to='' from='' pancontrol='true|false' zoomcontrol='true|false' scalecontrol='true|false' zoom='10'][/map]`
 
 = How I can put a marker? =
+
 `[map address='XXXXX']
 [marker lat='-33' lng='-66'][/marker]
 [/map]`
 
 = How I can put a marker in the center map? =
+
 `[map address='XXXXX']
 [marker lat='map' lng='map'][/marker]
 [/map]`
-
-== Screenshots ==
 
 == Changelog ==
 
